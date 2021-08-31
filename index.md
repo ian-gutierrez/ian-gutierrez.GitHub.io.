@@ -32,15 +32,14 @@ The git clone command adds an existing or new repository to your local machine t
 3. Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its
 URL and describe its potential applications and values.
 
+Data: https://catalog.data.gov/dataset/distribution-maps-of-amphibians-in-the-sierra-nevada
+
+Using this data set we could explore the expected life span and migration patterns of these 36 amphibians in the California Sierra Nevadas and predict the life expectancy of these animals and see if there's a pattern of a declining population. We could cross reference this data set potentially with pollution data or weather patterns to determine cause and effect. 
+
 4. Introduce ONE selected “free-data-science-book” with its URL and author/institute
 information. Explain briefly why you are interested in this book.
 
-5. Print out the README.md (in a regular display mode inside GitHub) as a PDF. Add this
-to your submission as Attachment #1.
-
-6. Print out your GitHub Website from a Web Browser (such as Chrome) as a PDF. Add
-this to your submission as Attachment #2.
-
+The book I chose was “R for Data Science,”(https://r4ds.had.co.nz/)  by Hadley Wickham and Garret Grolemund, a free textbook designed to teach the reader useful ways to transform and visualize data using R. What interests me in the book is the easy to navigate sections and chapters. The book also teaches fundamental concepts of data science such as cleaning data and creating reproducible research. 
 
 ### Markdown
 
