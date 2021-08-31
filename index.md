@@ -5,9 +5,9 @@ You can use the [editor on GitHub](https://github.com/ian-gutierrez/ian-gutierre
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Lab Report 1
-Ian Gutierrez 
-822570769
-Github Website
+* Ian Gutierrez 
+* 822570769
+* [GitHub](https://ian-gutierrez.github.io/ian-gutierrez.GitHub.io./)
 
 1. What are the key functions of GitHub? Who are the users? Please use your own
 words to describe them (200 words – 300 words).
