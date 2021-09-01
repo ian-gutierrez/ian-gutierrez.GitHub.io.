@@ -24,8 +24,7 @@ From some quick research, the users of github range from small start ups to some
 
 The git clone command adds an existing or new repository to your local machine to be able to connect to the github repository so you can make changes. The pull request is basically connecting to github and pulling in the changes or updates that your partners have worked on. The pull request lets you stay up to date with all of the updates made in the files. 
 
-#### *Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its*
-URL and describe its potential applications and values.
+#### *Introduce ONE selected “Data Set” from the [awesome-datascience] GitHub with its URL and describe its potential applications and values.*
 
 [Data:](https://catalog.data.gov/dataset/distribution-maps-of-amphibians-in-the-sierra-nevada)
 
