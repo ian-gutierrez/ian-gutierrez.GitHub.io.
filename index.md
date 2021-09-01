@@ -1,4 +1,4 @@
-##Welcome to Ian Gutierrez's Homepage!
+## Welcome to Ian Gutierrez's Homepage!
 
 ## Lab Report 1
 * Ian Gutierrez 
